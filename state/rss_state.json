@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "created_at_utc": "2026-04-28T13:02:12+03:00",
-  "updated_at_utc": "2026-09-07T01:08:04+03:00",
-  "last_successful_run_at_utc": "2026-09-07T01:08:05+03:00",
+  "updated_at_utc": "2026-09-07T07:33:59+03:00",
+  "last_successful_run_at_utc": "2026-09-07T07:33:59+03:00",
   "feeds": {
     "77c8ce0c6f94839664c4094a5ecfeaa1305840c298aec01cffa87b081a81501c": {
       "last_seen_published_at_utc": "2026-09-01T17:02:00+03:00",
@@ -55,8 +55,8 @@
       "source_name": "Information Security Magazine"
     },
     "5025a47ce368144e6f6b115bf1aab76a400a0c086c4f68398442fa33d37e2362": {
-      "last_seen_published_at_utc": "2026-09-06T18:43:30+03:00",
-      "last_seen_at_utc": "2026-09-06T21:15:34+03:00",
+      "last_seen_published_at_utc": "2026-09-07T06:47:14+03:00",
+      "last_seen_at_utc": "2026-09-07T07:32:52+03:00",
       "source_name": "Technical Information Security Content & Discussion"
     },
     "0c4bfb440f8092770d4cadbd62ee55a36c8b2d5cf237b28255e7d2af8102148e": {
@@ -70,8 +70,8 @@
       "source_name": "Schneier on Security"
     },
     "d9ea00f5ec52a41f0583f553cb190277e4cd40796452c369ba280e7e41978c88": {
-      "last_seen_published_at_utc": "2026-09-06T17:23:46+03:00",
-      "last_seen_at_utc": "2026-09-06T18:25:16+03:00",
+      "last_seen_published_at_utc": "2026-09-07T04:15:43+03:00",
+      "last_seen_at_utc": "2026-09-07T07:32:52+03:00",
       "source_name": "Bleeping Computer"
     },
     "91d9881fa194685fa593fc500b2cfb5d5c0b6522336821a547a9b2178f9f800d": {
@@ -125,8 +125,8 @@
       "source_name": "The Tor Blog blogs"
     },
     "8c3f2ae81d19f940b8bbee70b2e042075129ec417e9e6eb2f17e6a0ef379d6d4": {
-      "last_seen_published_at_utc": "2026-09-02T01:26:38+03:00",
-      "last_seen_at_utc": "2026-09-02T07:26:35+03:00",
+      "last_seen_published_at_utc": "2026-09-07T02:31:36+03:00",
+      "last_seen_at_utc": "2026-09-07T07:32:52+03:00",
       "source_name": "Troy Hunt's Blog"
     },
     "92730a2cfaa07d1eac8767434558e311fee634cec6d890d52b5f8a536c0384b6": {
@@ -346,13 +346,6 @@
     }
   },
   "sent_fingerprints": {
-    "97cf04ff098270340817f58cc0fd43b71dae297359c6235036aefdf8388778a3": "2026-07-24T06:39:35+03:00",
-    "7e3c743e52266b5e7de31df7e23797804bf2ceb8831e7e8d18259bf8e969a04e": "2026-07-24T06:39:35+03:00",
-    "2fafeaf49998290159e7619ad2f35fccd8b3958fe3ad1c62d76640d5f9866824": "2026-07-24T06:39:35+03:00",
-    "04afc2fa1c8628b192c503f89fc66fed1ec065b05d281557be38749d2d1bd313": "2026-07-24T06:39:35+03:00",
-    "41e584a24d37d1157531584eb0004beba127deb03efd913628f0d7ef1d32e44c": "2026-07-24T06:39:35+03:00",
-    "bc313ef891ad9656896d92452cff9e091da350746fe1f08f640aff54fcfa8cf3": "2026-07-24T06:39:35+03:00",
-    "e15fb4b40b126452deaa6cecdd9007d1fd63e89362b6f9c870ff664f67c1af87": "2026-07-24T06:39:35+03:00",
     "185747df6b888b06f7194f73eb4671257bf24d3b1c60917597828e4a71e0ba05": "2026-07-24T09:37:36+03:00",
     "31316c9d9c9e4a595a445b3ef2e6834b9b87248c5977733032cde346fed650ae": "2026-07-24T13:27:32+03:00",
     "06dc4bc28acf73b3e9907b50ee2ebf6f28bdcbfccb2baf2e28938c9515801041": "2026-07-24T13:27:32+03:00",
@@ -3490,7 +3483,10 @@
     "34c76f103d5f23830927ae039f68d7ff7aeeab507bc4d2b396bacde2e7d22f23": "2026-09-06T18:25:16+03:00",
     "bdcb99ff3df935a8e09641eb9e987c7e578430bb93c7edf7283afaa1128247bc": "2026-09-06T18:25:16+03:00",
     "47efe1730b194a97beae93fb0f0bd4f835ed5a3741c526834df90c84cac74f50": "2026-09-06T18:25:16+03:00",
-    "bc14cdf738833d4228ce5a7c983991e2d287633e492b1f08a7673f69b3f306d0": "2026-09-06T21:15:34+03:00"
+    "bc14cdf738833d4228ce5a7c983991e2d287633e492b1f08a7673f69b3f306d0": "2026-09-06T21:15:34+03:00",
+    "aad41d9460b6e1798881c68ca45dbd9bb52ea7845b49a2b8228207f3d1d59a7b": "2026-09-07T07:32:52+03:00",
+    "f936c78745a6c7e57c6f76ef94da408f51bc5d1e8043057fa23c7080a72fe1f1": "2026-09-07T07:32:52+03:00",
+    "9524e12dbf03638d882567686649a53aaa06ed0311ed3c059432589c8b27c066": "2026-09-07T07:32:52+03:00"
   },
-  "updated_by_run_id": "34063017964"
+  "updated_by_run_id": "34083494278"
 }
